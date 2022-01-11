@@ -35,3 +35,5 @@ So much that I spent hundreds of hours on learning it. Which now brings me to my
 <a href="https://reddit.com/u/thatkermitguy"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 <a href="https://discord.io/kermito"><img src="https://img.shields.io/badge/%3CKermit's%20Hangout%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 <a href="mailto:thatkermitguy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="http://live.xbox.com/Profile?Gamertag=TheAwesomeGuy47"><img src="https://img.shields.io/badge/TheAwesomeGuy47-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white">
+<a href="https://www.youtube.com/channel/UCTOmjfJv6MucZ3uPEcKjNYQ"><img src="https://img.shields.io/badge/TheAwesomeGuy47-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
