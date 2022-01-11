@@ -27,4 +27,11 @@ So much that I spent hundreds of hours on learning it. Which now brings me to my
 ---
 
 ### Other Accounts
-<a href="https://twitter.com/TheAwesomeGuy47"><img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+<a href="https://twitter.com/TheAwesomeGuy47"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="https://gitlab.com/TheAwesomeGuy47"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+<a href="https://dev.to/TheAwesomeGuy47"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+<a href="https://theawesomeguy47.itch.io"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
+<a href="https://steamcommunity.com/profiles/76561198843253726"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+<a href="https://reddit.com/u/thatkermitguy"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+<a href="https://discord.io/kermito"><img src="https://img.shields.io/badge/%3CKermit's%20Hangout%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+<a href="mailto:thatkermitguy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
