@@ -77,4 +77,17 @@ So much that I spent hundreds of hours on learning it. Which now brings me to my
 
 ### Statistics
 <br />
-![TheAwesomeGuy47's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAwesomeGuy47&show_icons=true&theme=tokyonight)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api?username=TheAwesomeGuy47&show_icons=true&theme=tokyonight" />
+
+</details>
+<br />
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api/top-langs?username=TheAwesomeGuy47&layout=compact" />
+
+</details>
