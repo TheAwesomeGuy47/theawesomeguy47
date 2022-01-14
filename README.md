@@ -91,3 +91,8 @@ So much that I spent hundreds of hours on learning it. Which now brings me to my
   <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api/top-langs?username=TheAwesomeGuy47&layout=compact" />
 
 </details>
+  
+---
+
+### Latest Blog Posts
+<br />
