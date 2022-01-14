@@ -96,3 +96,5 @@ So much that I spent hundreds of hours on learning it. Which now brings me to my
 
 ### Latest Blog Posts
 <br />
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
