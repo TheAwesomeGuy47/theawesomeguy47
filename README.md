@@ -97,4 +97,5 @@ So much that I spent hundreds of hours on learning it. Which now brings me to my
 ### Latest Blog Posts
 <br />
 <!-- BLOG-POST-LIST:START -->
+- [Installing Arch Linux](https://dev.to/theawesomeguy47/installing-arch-linux-3lhk)
 <!-- BLOG-POST-LIST:END -->
