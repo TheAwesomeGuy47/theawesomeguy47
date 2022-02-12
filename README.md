@@ -97,5 +97,5 @@ So much that I spent hundreds of hours on learning it. Which now brings me to my
 ### Latest Blog Posts
 <br />
 <!-- BLOG-POST-LIST:START -->
-
+- [Hello, World!](https://dev.to/theawesomeguy47/hello-world-ie7)
 <!-- BLOG-POST-LIST:END -->
