@@ -95,6 +95,7 @@ I am a young developer, who
 ---
 
 ### Latest Blog Posts
-<br />
+
 <!-- BLOG-POST-LIST:START -->
+- [Hello, World!](https://dev.to/theawesomeguy47/hello-world-ie7)
 <!-- BLOG-POST-LIST:END -->
