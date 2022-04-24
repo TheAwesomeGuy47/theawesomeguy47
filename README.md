@@ -84,19 +84,16 @@ I am a young developer, who
 
 </details>
 <br />
-<br />
 <details>
   <summary>:zap: Most Used Languages</summary>
 
   <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api/top-langs?username=TheAwesomeGuy47&layout=compact" />
 
 </details>
-<br />
-<br />
+  
 ---
 
 ### Latest Blog Posts
-<br />
 <br />
 <!-- BLOG-POST-LIST:START -->
 - [Hello, World!](https://dev.to/theawesomeguy47/hello-world-ie7)
