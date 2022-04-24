@@ -78,7 +78,9 @@ I am a young developer, who
 <br />
 <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api?username=TheAwesomeGuy47&show_icons=true&theme=tokyonight" />
 <br />
+<br />
 <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api/top-langs?username=TheAwesomeGuy47&layout=compact" />
+<br />
 
 ---
 
