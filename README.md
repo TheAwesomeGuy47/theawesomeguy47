@@ -79,23 +79,25 @@ I am a young developer, who
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <div align="left"><img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api?username=TheAwesomeGuy47&show_icons=true&theme=tokyonight" /></div>
-  
+
+  <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api?username=TheAwesomeGuy47&show_icons=true&theme=tokyonight" />
 
 </details>
+<br />
 <br />
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <div align="left"><img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api/top-langs?username=TheAwesomeGuy47 layout=compact" /></div>
-  
+  <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api/top-langs?username=TheAwesomeGuy47&layout=compact" />
 
 </details>
-  
+<br />
+<br />
 ---
 
 ### Latest Blog Posts
-
+<br />
+<br />
 <!-- BLOG-POST-LIST:START -->
 - [Hello, World!](https://dev.to/theawesomeguy47/hello-world-ie7)
 <!-- BLOG-POST-LIST:END -->
