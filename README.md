@@ -3,11 +3,10 @@
 
 
 ---
-Just your average Kermit, but add some **MLG**.
-<br />
-I am a developer, and I **REALLY** like programming.
-<br />
-So much that I spent hundreds of hours on learning it. Which now brings me to my skill set.
+
+### About Me
+
+I am a young developer, who
 
 ---
 
@@ -80,15 +79,16 @@ So much that I spent hundreds of hours on learning it. Which now brings me to my
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api?username=TheAwesomeGuy47&show_icons=true&theme=tokyonight" />
+  <div align="left"><img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api?username=TheAwesomeGuy47&show_icons=true&theme=tokyonight" /></div>
+  
 
 </details>
 <br />
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api/top-langs?username=TheAwesomeGuy47&layout=compact" />
+  <div align="left"><img align="left" alt="TheAwesomeGuy47's GitHub Stats" src="https://github-readme-stats-beta-one-23.vercel.app/api/top-langs?username=TheAwesomeGuy47 layout=compact" /></div>
+  
 
 </details>
   
