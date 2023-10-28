@@ -6,7 +6,9 @@
 
 ### About Me
 
-I am a young developer, who
+I am a young developer, who loves to code random, and utterly useless things. If you like my setup, clone my [dotfiles](https://github.com/theawesomeguy47/dotfiles) which you can change or modify in any way you see fit!
+
+I've been coding since I was 9 (6 if you count my days on [Scratch](https://scratch.mit.edu)) and hope I can establish a decent career in the tech industry.
 
 ---
 
